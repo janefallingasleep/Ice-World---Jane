@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: c55a86088072b1f42a065babb1735d46
+timeCreated: 1487427599
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ice_Floe_01
+    100002: Ice_Floe_02
+    100004: Ice_Floe_03
+    100006: Ice_Floe_04
+    100008: Ice_Floe_05
+    100010: Ice_Floe_06
+    100012: Ice_Floe_07
+    100014: Ice_Floe_08
+    100016: Ice_Floe_09
+    100018: Ice_Floe_10
+    100020: Ice_Floe_11
+    100022: Ice_Floe_12
+    100024: Ice_Floe_13
+    100026: Ice_Floe_14
+    100028: Ice_Floe_15
+    100030: Ice_Floe_16
+    100032: Ice_Floe_17
+    100034: Ice_Floe_18
+    100036: Ice_Floe_19
+    100038: Ice_Floe_20
+    100040: //RootNode
+    400000: Ice_Floe_01
+    400002: Ice_Floe_02
+    400004: Ice_Floe_03
+    400006: Ice_Floe_04
+    400008: Ice_Floe_05
+    400010: Ice_Floe_06
+    400012: Ice_Floe_07
+    400014: Ice_Floe_08
+    400016: Ice_Floe_09
+    400018: Ice_Floe_10
+    400020: Ice_Floe_11
+    400022: Ice_Floe_12
+    400024: Ice_Floe_13
+    400026: Ice_Floe_14
+    400028: Ice_Floe_15
+    400030: Ice_Floe_16
+    400032: Ice_Floe_17
+    400034: Ice_Floe_18
+    400036: Ice_Floe_19
+    400038: Ice_Floe_20
+    400040: //RootNode
+    2300000: Ice_Floe_01
+    2300002: Ice_Floe_02
+    2300004: Ice_Floe_03
+    2300006: Ice_Floe_04
+    2300008: Ice_Floe_05
+    2300010: Ice_Floe_06
+    2300012: Ice_Floe_07
+    2300014: Ice_Floe_08
+    2300016: Ice_Floe_09
+    2300018: Ice_Floe_10
+    2300020: Ice_Floe_11
+    2300022: Ice_Floe_12
+    2300024: Ice_Floe_13
+    2300026: Ice_Floe_14
+    2300028: Ice_Floe_15
+    2300030: Ice_Floe_16
+    2300032: Ice_Floe_17
+    2300034: Ice_Floe_18
+    2300036: Ice_Floe_19
+    2300038: Ice_Floe_20
+    3300000: Ice_Floe_01
+    3300002: Ice_Floe_02
+    3300004: Ice_Floe_03
+    3300006: Ice_Floe_04
+    3300008: Ice_Floe_05
+    3300010: Ice_Floe_06
+    3300012: Ice_Floe_07
+    3300014: Ice_Floe_08
+    3300016: Ice_Floe_09
+    3300018: Ice_Floe_10
+    3300020: Ice_Floe_11
+    3300022: Ice_Floe_12
+    3300024: Ice_Floe_13
+    3300026: Ice_Floe_14
+    3300028: Ice_Floe_15
+    3300030: Ice_Floe_16
+    3300032: Ice_Floe_17
+    3300034: Ice_Floe_18
+    3300036: Ice_Floe_19
+    3300038: Ice_Floe_20
+    4300000: Ice_Floe_02
+    4300002: Ice_Floe_03
+    4300004: Ice_Floe_04
+    4300006: Ice_Floe_05
+    4300008: Ice_Floe_06
+    4300010: Ice_Floe_07
+    4300012: Ice_Floe_08
+    4300014: Ice_Floe_09
+    4300016: Ice_Floe_10
+    4300018: Ice_Floe_11
+    4300020: Ice_Floe_12
+    4300022: Ice_Floe_13
+    4300024: Ice_Floe_14
+    4300026: Ice_Floe_15
+    4300028: Ice_Floe_16
+    4300030: Ice_Floe_17
+    4300032: Ice_Floe_18
+    4300034: Ice_Floe_19
+    4300036: Ice_Floe_20
+    4300038: Ice_Floe_01
+    6400000: Ice_Floe_01
+    6400002: Ice_Floe_02
+    6400004: Ice_Floe_03
+    6400006: Ice_Floe_04
+    6400008: Ice_Floe_05
+    6400010: Ice_Floe_06
+    6400012: Ice_Floe_07
+    6400014: Ice_Floe_08
+    6400016: Ice_Floe_09
+    6400018: Ice_Floe_10
+    6400020: Ice_Floe_11
+    6400022: Ice_Floe_12
+    6400024: Ice_Floe_13
+    6400026: Ice_Floe_14
+    6400028: Ice_Floe_15
+    6400030: Ice_Floe_16
+    6400032: Ice_Floe_17
+    6400034: Ice_Floe_18
+    6400036: Ice_Floe_19
+    6400038: Ice_Floe_20
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
