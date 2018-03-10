@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Low-Poly Ice World/Scenes/PracticalDemo.unity
+  isLoaded: 1
+  isActive: 1
