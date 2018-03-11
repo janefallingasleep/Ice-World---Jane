@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{76517F19-1DEA-1FB8-DF6F-086264ED9880}</ProjectGuid>
+    <ProjectGuid>{E4986AA9-CE68-7062-232D-180B9E53C4E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,7 +55,7 @@
      <Compile Include="Assets\script\Leepy.cs" />
      <Compile Include="Assets\shadow\shadow.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/Zongli/Documents/GitHub/Ice-World---Jane/0309/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/Zongli/Documents/GitHub/Ice-World---Jane/0309_Jane updated/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
