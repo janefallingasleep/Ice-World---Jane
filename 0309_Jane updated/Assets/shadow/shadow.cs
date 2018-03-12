@@ -22,7 +22,7 @@ public class shadow: MonoBehaviour {
 		float speed = Mathf.Sqrt (moveHorizontal * moveHorizontal + moveVertical * moveVertical)*10f;
         animator.SetFloat("speed", speed, 0.15f, 0.5f*Time.deltaTime);
 		
-		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);
+		Vector3 movement = new Vector3 (moveVertical, 90.0f, moveHorizontal);
         Shadow.velocity = movement;
 		
         if (Input.GetKey(KeyCode.J)) {
