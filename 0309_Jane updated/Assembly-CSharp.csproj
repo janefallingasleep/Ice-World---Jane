@@ -51,9 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\playmotor.cs" />
      <Compile Include="Assets\script\camera_switch.cs" />
      <Compile Include="Assets\script\Leepy.cs" />
+     <Compile Include="Assets\shadow\playmoto.cs" />
      <Compile Include="Assets\shadow\shadow.cs" />
+     <Compile Include="Assets\shadow\shadowCamera.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/Zongli/Documents/GitHub/Ice-World---Jane/0309_Jane updated/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>

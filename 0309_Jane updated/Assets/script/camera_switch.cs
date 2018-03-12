@@ -16,7 +16,7 @@ public class camera_switch : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyUp(KeyCode.Space)){
+		if(Input.GetKeyUp(KeyCode.S)){
 			camera1.enabled = !camera1.enabled;
 			camera2.enabled = !camera2.enabled;
 		}
