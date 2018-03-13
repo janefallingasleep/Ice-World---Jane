@@ -7,7 +7,7 @@ public class playmoto : MonoBehaviour {
 	private CharacterController controller;
 	private float verticalVelocity;
 	private float gravity = 14.0f;
-	private float jumpForce = 10.0f;
+	private float jumpForce = 5.0f;
 
 	Animator animator;
 	public AudioClip jump1;
@@ -62,8 +62,6 @@ public class playmoto : MonoBehaviour {
 		transform.rotation = deltaRotation;
 
 		if (Input.GetKey(KeyCode.Space)) {
-			animator.SetTrigger("jumptrigger");
-
 			if (jumped == true) {
 				jump = Time.deltaTime;
 				jumped = false;
