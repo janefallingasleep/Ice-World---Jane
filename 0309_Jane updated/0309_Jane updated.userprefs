@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Leepy.cs">
@@ -7,6 +8,16 @@
       <File FileName="Assets\shadow\shadowCamera.cs" Line="1" Column="1" />
       <File FileName="Assets\script\camera_switch.cs" Line="1" Column="1" />
       <File FileName="Assets\snowman_script.cs" Line="1" Column="1" />
+=======
+﻿<Properties StartupItem="0309_Jane updated.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Leepy.cs">
+    <Files>
+      <File FileName="Assets\shadow\playmoto.cs" Line="63" Column="3" />
+      <File FileName="Assets\shadow\shadow.cs" Line="1" Column="1" />
+      <File FileName="Assets\shadow\shadowCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\camera_switch.cs" Line="1" Column="1" />
+>>>>>>> 418b0f9ddf69f9a684c8209d7ebb0629bb6dadb3
       <File FileName="Assets\script\Leepy.cs" Line="15" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
