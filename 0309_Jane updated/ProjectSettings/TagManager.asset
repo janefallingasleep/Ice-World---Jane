@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - killer_rock
+  - player
+  - snowman
+  - snowball
+  - snowball_pre
   layers:
   - Default
   - TransparentFX
