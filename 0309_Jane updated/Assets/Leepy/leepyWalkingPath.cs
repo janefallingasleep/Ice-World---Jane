@@ -7,7 +7,6 @@ public class leepyWalkingPath : MonoBehaviour {
 	public List<Transform> waypoints = new List<Transform> ();
 	int index = 0;
 	public bool disableInGame;
-
 	void Update () {	
 		if (!Application.isPlaying) {
 			Transform[] tem = GetComponentsInChildren<Transform> ();
@@ -23,7 +22,6 @@ public class leepyWalkingPath : MonoBehaviour {
 			}
 		}
 	}
-
 	void OnDrawGizmos()
 	{
 		if (waypoints.Count > 0) {

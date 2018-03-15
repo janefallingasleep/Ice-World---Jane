@@ -6,7 +6,6 @@ using System.Collections.Generic;
 public class leepyMover : MonoBehaviour {
 
 	public List<Transform> points = new List <Transform> ();
-
 	private int destPoint = 0;
 	private NavMeshAgent agent;
 

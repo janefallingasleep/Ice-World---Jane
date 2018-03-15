@@ -302,6 +302,9 @@
     <Compile Include="Assets\playmotor.cs" />
     <Compile Include="Assets\script\camera_switch.cs" />
     <Compile Include="Assets\script\Leepy.cs" />
+    <Compile Include="Assets\script\snowman_steady.cs" />
+    <Compile Include="Assets\script\snowmanAttack.cs" />
+    <Compile Include="Assets\script\SnowmanShooting.cs" />
     <Compile Include="Assets\shadow\playmoto.cs" />
     <Compile Include="Assets\shadow\shadow.cs" />
     <Compile Include="Assets\shadow\shadowCamera.cs" />
